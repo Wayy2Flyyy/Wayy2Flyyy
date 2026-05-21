@@ -6,4 +6,4 @@ Built as a simple drag-and-drop, this project improves the default Qbox experien
 
 It is completely free, open to the community, and built for developers who want to expand, improve, and make it their own.
 
-# w2f-multicharacter, w2f-pawnshop, ox_enhanced coming soon!
+## w2f-multicharacter, w2f-pawnshop, w2f-hunting, w2f-police coming soon!
